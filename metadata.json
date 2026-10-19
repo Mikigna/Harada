@@ -1,0 +1,6 @@
+{
+  "name": "Квадрат Харада — цели, действия и трекер",
+  "description": "PWA для постановки и достижения целей по методу Харада: матрица 8×8, умный пошаговый мастер, ежедневный трекер привычек, серии с прощением, PDCA-обзор и экспорт в PDF/PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
